@@ -21,8 +21,8 @@
           `-----------------------------------------------------'
 
 ## What I'm working on:
-- **Cascade**: A new general-purpose coding language.
-- **Bootleg OS**: An operating system designed for efficiency and customizability.
+- **Linear Regression Calculator**: A school project for implementing the linear regression algortihm using python.
+- **Unsecure PWA**: Making a previously unsecure PWA secure. 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wizqrd?theme=dark)
